@@ -1,0 +1,17 @@
+# Editor / OS junk
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Local working scratch
+/tmp/
+/scratch/
+
+# Never commit credentials
+oauth_creds.json
+*.token
+.env
+.env.local
