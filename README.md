@@ -423,7 +423,7 @@ If multi-turn tool calling works without a 400, you're done. The thinking-mode r
 
 ## License
 
-MIT — see [LICENSE](LICENSE).
+Apache-2.0 — see [LICENSE](LICENSE).
 
 ---
 
