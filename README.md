@@ -1,3 +1,5 @@
+![claw-code-gemini-setup-guide](.github/preview.png)
+
 # claw-code × Google Gemini (Code Assist) Setup Guide
 
 A step-by-step recipe for wiring [`claw-code`](https://github.com/ultraworkers/claw-code) — the Rust port of Anthropic's Claude Code CLI — to Google Gemini via the **Cloud Code Assist API** using the same OAuth tokens that Google's official `gemini` CLI mints. Includes the **`thoughtSignature` replay** fix that's mandatory for Gemini 3 thinking-mode multi-turn tool calling.
