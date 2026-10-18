@@ -1,5 +1,10 @@
 ![claw-code-gemini-setup-guide](.github/preview.png)
 
+<p align="center">
+  <img src=".github/assets/synthalorian-idle-128.gif" width="128" height="128" alt="The synthalorian: a pixel-art figure in a black helmet with a pink T-visor, idling">
+</p>
+<p align="center"><em>A step-by-step guide to running claw-code on Google Gemini through Code Assist.</em></p>
+
 # claw-code × Google Gemini (Code Assist) Setup Guide
 
 A step-by-step recipe for wiring [`claw-code`](https://github.com/ultraworkers/claw-code) — the Rust port of Anthropic's Claude Code CLI — to Google Gemini via the **Cloud Code Assist API** using the same OAuth tokens that Google's official `gemini` CLI mints. Includes the **`thoughtSignature` replay** fix that's mandatory for Gemini 3 thinking-mode multi-turn tool calling.
@@ -434,3 +439,11 @@ Apache-2.0 — see [LICENSE](LICENSE).
 If this project saved you time, solved a problem, or just made your day a little more neon, you can fuel the next one:
 
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://buymeacoffee.com/synthalorian)
+
+---
+
+<p align="center">
+  <img src=".github/assets/synthalorian-idle-128.gif" width="32" height="32" alt="The synthalorian sprite"><br>
+  <sub>Built by <a href="https://github.com/synthalorian">the synthalorian</a></sub>
+  <br><sub>AI-assisted art: the banner image at the top of this README was made with AI image tools. The synthalorian sprite is code-drawn pixel art.</sub>
+</p>
